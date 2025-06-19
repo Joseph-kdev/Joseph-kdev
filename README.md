@@ -48,7 +48,7 @@ You can find my tech blogs on Medium and Dev.to, where I share programming insig
 
 ![](https://github-readme-stats.vercel.app/api?username=Joseph-kdev&theme=nord&hide_border=false&include_all_commits=true&count_private=true)  ![](https://nirzak-streak-stats.vercel.app/?user=Joseph-kdev&theme=nord&hide_border=false) 
 
-<img src="https://wakatime.com/share/@Jmuchai/9a771f89-5655-4972-bb8c-259523892758.svg" alt="WakaTime Stats" width="470"/> <img src="https://wakatime.com/share/@Jmuchai/5cbef181-c106-4f97-bd18-17bb45367644.svg" alt="WakaTime Stats" width="470"/>
+<img src="https://wakatime.com/share/@Jmuchai/9a771f89-5655-4972-bb8c-259523892758.svg" alt="WakaTime Stats" width="300"/> <img src="https://wakatime.com/share/@Jmuchai/5cbef181-c106-4f97-bd18-17bb45367644.svg" alt="WakaTime Stats" width="300"/>
 
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
