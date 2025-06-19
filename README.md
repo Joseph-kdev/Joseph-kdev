@@ -46,12 +46,18 @@ You can find my tech blogs on Medium and Dev.to, where I share programming insig
 ### 📊 Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=Joseph-kdev&theme=nord&hide_border=false&include_all_commits=true&count_private=true)  ![](https://nirzak-streak-stats.vercel.app/?user=Joseph-kdev&theme=nord&hide_border=false) 
+<img src="https://wakatime.com/share/@Jmuchai/9a771f89-5655-4972-bb8c-259523892758.svg" alt="WakaTime Stats" width="400"/> <img src="https://wakatime.com/share/@Jmuchai/5cbef181-c106-4f97-bd18-17bb45367644.svg" alt="WakaTime Stats" width="400"/>
+</div>
 
-<img src="https://wakatime.com/share/@Jmuchai/9a771f89-5655-4972-bb8c-259523892758.svg" alt="WakaTime Stats" width="300"/> <img src="https://wakatime.com/share/@Jmuchai/5cbef181-c106-4f97-bd18-17bb45367644.svg" alt="WakaTime Stats" width="300"/>
 
 #### ✍️ Random Dev Quote
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Joseph-kdev&icon=0&color=1)](https://visitcount.itsvg.in)
